@@ -1,7 +1,8 @@
 # Ultimate-YouTuber
 
 This is a folder for data/model files for the Ultimate-Youtuber project. 
-This folder includes four part: 
+This folder includes five part: 
+
 (1)	youtube videos data containing information such as title, views number, likes number, dislikes number, description and comments. Dataset files contain data from USA videos, and Canada videos, names are “ca1.csv”, “ca2.csv”, “ca3.csv”, “us1.csv”, “us3.csv”, “us3.csv”.
 
 (2)	Overview notebook: (a) EDA: Exploratory Data Analysis, explore correlation between each factor. (b) Data Cleaning part (Saved cleaned data called “new_data3”). (c) NLP/modeling part for whole dataset without separate by categories of videos. 
